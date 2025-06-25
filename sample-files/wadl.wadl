@@ -1,4 +1,4 @@
-<?php
+
 // === NOT COMPLIANT ===
 // comment ‪ comment
 // comment ‫ comment
